@@ -1,0 +1,45 @@
+footer{
+	background-color: pink;
+
+}
+
+h1{
+	background-color:pink;
+
+
+	max-width:20000px;
+}
+
+p,ul{
+	color:black;
+	font-style: ;
+	font-size: 20px;
+	font-family: 'Dancing Script', cursive;
+
+}
+
+.row{
+	background-color: #F3E5F5;
+}
+.section-container{
+	background-color: #cb87d6;
+
+}
+.container{
+	background-color: #cb87d6;
+}
+
+.button{
+	background-color:rgb(0,150,214);
+	border:solid 1px black;
+	width:150px;
+	height:40px;
+	color:black;
+	border-radius:20px;
+ 	text-decoration-style: all;
+
+
+}
+
+
+
